@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+h1 {color: gray;
+    text-align: center;}
+
+html * {background-color: beige;
+        text-align: center;}
